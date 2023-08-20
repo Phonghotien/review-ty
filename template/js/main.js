@@ -54,5 +54,4 @@ window.addEventListener("DOMContentLoaded", () => {
   SideModule();
   CollapseModule();
   ComponentModule();
-  childModule();
 });
