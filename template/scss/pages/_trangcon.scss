@@ -55,9 +55,10 @@
 
   .hu-br {
     padding: 8rem 0;
-
+    padding-top: 0;
     @include max(1200px) {
       padding: 4rem 0;
+      padding-top: 0;
     }
 
     .hu-br-tt {
